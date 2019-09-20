@@ -1,0 +1,4 @@
+/home/scott/Projects/BWPirateChat/BWPirateChat/bin/Release/BWPirateChat.dll
+/home/scott/Projects/BWPirateChat/BWPirateChat/obj/Release/BWPirateChat.csprojAssemblyReference.cache
+/home/scott/Projects/BWPirateChat/BWPirateChat/obj/Release/BWPirateChat.csproj.CoreCompileInputs.cache
+/home/scott/Projects/BWPirateChat/BWPirateChat/obj/Release/BWPirateChat.dll
