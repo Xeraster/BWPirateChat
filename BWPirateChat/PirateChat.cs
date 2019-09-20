@@ -197,7 +197,12 @@ namespace BWPirateChat
                     //}
                         //return true;
                 }
-                if (pirateModeEnabled)
+                else if (text[0] == '/')
+                {
+                    //don't try to convert commands into pirate speak! That shit is irritating!
+                    return true;
+                }
+                else if (pirateModeEnabled)
                 {
                     string changedText = PirateTalkText(text);
                     text = changedText;
